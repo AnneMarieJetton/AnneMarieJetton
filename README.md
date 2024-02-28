@@ -7,7 +7,7 @@
 <hr/>
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/rocket_ship_white.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/rocket_ship_white.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annemariejetton&label=Profile%20views&color=0e75b6&style=flat" alt="annemariejetton" /> </p>
 
