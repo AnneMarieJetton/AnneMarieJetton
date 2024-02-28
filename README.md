@@ -64,7 +64,7 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=700&duration=40
   <img width=390 src="https://streak-stats.demolab.com/?user=AnneMarieJetton&count_private=true&theme=react&border_radius=10" alt="streak stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=AnneMarieJetton&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneMarieJetton&layout=compact&theme=react"/>
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneMarieJetton&layout=compact&theme=react&border_radius=10"/>
 </div>
 
 <br/><br/>
