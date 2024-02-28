@@ -1,4 +1,3 @@
-<br/>
 <h1 align="Left">👋🏻👩🏻‍🚀Anne Jetton</h1>
 <h3 align="Left">Web Developer</h3>
 <p align="Left">
