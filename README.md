@@ -34,6 +34,9 @@
   <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/internet_logo_white.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
 
 <br/>
+<br/>
+<br/>
+<br/>
 <hr/>
 <br/>
 
