@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anne-jetton" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/anne-jetton" target="blank">
+<a href="mailto:annemariejetton@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
 <a href="mailto:annemariejetton@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" />
