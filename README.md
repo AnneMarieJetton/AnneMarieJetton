@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Anne</h1>
-<h3 align="center">A passionate web developer</h3>
+<div align="center">
+  <h1 align="left">Hi, I'm Anne</h1>
+  <h3 align="left">A passionate web developer</h3>
+</div>
 
 <hr/>
 
