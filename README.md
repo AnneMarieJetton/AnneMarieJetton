@@ -29,11 +29,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anne-jetton" target="blank">
-  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/LinkedIn_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/LinkedIn_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="40" width="40" /></a>
 <a href="mailto:annemariejetton@gmail.com" target="blank">
-  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/mail_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/mail_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="40" width="40" /></a>
 <a href="https://annemariejetton.github.io/personal-website/" target="blank">
-  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/internet_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/internet_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="40" width="40" /></a>
 
 <br/>
 <br/>
