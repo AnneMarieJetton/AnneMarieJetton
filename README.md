@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/LinkedInBannerV2.png">
-  <p align="Center" size="30">Hi, I'm Anne</p>
+  <h1 align="Center">Hi, I'm Anne</p>
   <h3 align="Center">A passionate web developer</h3>
 </div>
 
