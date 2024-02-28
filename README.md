@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/LinkedInBannerV2.png">
-  <h1 align="Center">Hi, I'm Anne</p>
-  <h3 align="Center">A passionate web developer</h3>
+  <h1 align="Center">Hi, I'm Anne 👋🏻👩🏻‍🚀</p>
+  <h3 align="Center">✨A passionate web developer✨</h3>
 </div>
 
 <hr/>
