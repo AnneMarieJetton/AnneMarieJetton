@@ -26,8 +26,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/anne-jetton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
-<a href="https://fb.com/anne jetton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anne jetton" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/anne-jetton" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
+<a href="mailto:annemariejetton@gmail.com">
+  <img src="https:img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://AnneMarieJetton.github.io" target="_blank">
+  <img src="https:img.shields.io/badge/portfolio-333333?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
+<a href="https://fb.com/anne jetton" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anne jetton" height="30" width="40" /></a>
 </p>
 
 <br/>
