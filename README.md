@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/anne-jetton" target="blank">
   <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/LinkedIn_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
 <a href="mailto:annemariejetton@gmail.com" target="blank">
-  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/email_white_logo.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/mail_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
 <a href="https://annemariejetton.github.io/personal-website/" target="blank">
   <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/internet_logo_white.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
 
