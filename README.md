@@ -7,7 +7,7 @@
 <hr/>
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/Tcq8dtZyqEYbIpppSL/200w.gif?cid=6c09b952d0peixwqg7phfzv613eddfxplostsmmgo8zvp4bg&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/05035cea-1164-11ee-9ed5-773b0ece7987/8Ng1m1F4TF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annemariejetton&label=Profile%20views&color=0e75b6&style=flat" alt="annemariejetton" /> </p>
 
