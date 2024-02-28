@@ -14,11 +14,11 @@
 
 - 🌒 I’m currently learning **Angular**
 
-- 🌓 View my portfolio website at [https://github.com/jennacioffi/personal-website](https://github.com/jennacioffi/personal-website)
+- 🌓 View my portfolio website [here](https://annemariejetton.github.io/personal-website/)
 
 - 🌔 How to reach me **annemariejetton@gmail.com**
 
-- 🌕 View my resume at [https://docs.google.com/document/d/1Zj3rg6WxoRnWKbS5rXz5nJG9O6NAr6JwbcMVSQVYRcI/edit?usp=sharing](https://docs.google.com/document/d/1Zj3rg6WxoRnWKbS5rXz5nJG9O6NAr6JwbcMVSQVYRcI/edit?usp=sharing)
+- 🌕 View my resume [here](https://docs.google.com/document/d/1Zj3rg6WxoRnWKbS5rXz5nJG9O6NAr6JwbcMVSQVYRcI/edit?usp=sharing)
 
 <br/>
 <hr/>
