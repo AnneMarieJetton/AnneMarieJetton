@@ -79,15 +79,12 @@
 <a href="https://annemariejetton.github.io/personal-website/" target="blank">
   <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/internet_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="40" width="40" /></a>
 
-
 <br/>
 <br/>
 <br/>
 <br/>
 <hr/>
 <br/>
-
-<img align="right" alt="Coding" width="280" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/transparent_moon.png">
 
 <h3 align="left">Frameworks:</h3>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -100,6 +97,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -116,9 +114,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-
-
-
 
 
 <h3 align="left">Tools:</h3>
