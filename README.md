@@ -7,6 +7,8 @@
 <hr/>
 <br/>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/285475/screenshots/3798124/astronaut.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annemariejetton&label=Profile%20views&color=0e75b6&style=flat" alt="annemariejetton" /> </p>
 
 - 🔭🌑 I’m currently working on [Bagit.com](https://github.com/AnneMarieJetton/BagIt)
