@@ -33,7 +33,7 @@
 <a href="mailto:annemariejetton@gmail.com" target="blank">
   <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/mail_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
 <a href="https://annemariejetton.github.io/personal-website/" target="blank">
-  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/internet_logo_white.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/internet_icon_color.png" alt="www.linkedin.com/in/anne-jetton" height="30" width="40" /></a>
 
 <br/>
 <br/>
