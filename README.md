@@ -1,10 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnneMarieJetton.AnneMarieJetton" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-      font=Righteous&size=35&center=true&vCenter=true&width=500&height=700&duration=4000&lines=Hi+There!;+I'm+Anne+Jetton!;" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center=true&vCenter=true&width=500&height=700&duration=4000&lines=Hi+There!;+I'm+Anne+Jetton!;" />
 </h1>
 
 <h3 align="center"> A passionate software developer from Florida </h3>
@@ -69,7 +67,7 @@
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?
-    font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Send+me+a+message+on+Linkedin">
+font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Send+me+a+message+on+Linkedin">
 </h3>
 
 <br/>
