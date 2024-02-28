@@ -7,7 +7,7 @@
 <hr/>
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Moon_rotating_thirdquarter_220px.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2023/05/28/13/22/13-22-30-666_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annemariejetton&label=Profile%20views&color=0e75b6&style=flat" alt="annemariejetton" /> </p>
 
