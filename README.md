@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/023/655/353/original/full-moon-transparent-png.png">
+  <img src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/LinkedInBannerV2.png">
   <h1 align="Center">Hi, I'm Anne</h1>
   <h3 align="Center">A passionate web developer</h3>
 </div>
