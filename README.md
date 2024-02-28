@@ -15,6 +15,12 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=700&duration=40
 
   sentance 2 [this is a link](www.google.com)
 
+  I'm Currently Working on BLANK
+
+  I'm Currently Learning BLANK
+
+  My favorite project is BLANK
+
 </div>
 
 <div align="center">
