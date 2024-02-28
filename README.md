@@ -87,7 +87,7 @@
 <hr/>
 <br/>
 
-<img align="right" alt="Coding" width="280" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/rocket_ship_white.gif">
+<img align="right" alt="Coding" width="280" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/transparent_moon.png">
 
 <h3 align="left">Frameworks:</h3>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
