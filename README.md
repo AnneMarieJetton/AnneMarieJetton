@@ -1,7 +1,7 @@
 <div align="center">
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=annemariejetton&label=Profile%20views&color=0e75b6&style=flat" alt="annemariejetton" /> </p>
-  <h1 align="left">Hi, I'm Anne</h1>
-  <h3 align="left">A passionate web developer</h3>
+  <img src="https://static.vecteezy.com/system/resources/previews/023/655/353/original/full-moon-transparent-png.png">
+  <h1 align="Center">Hi, I'm Anne</h1>
+  <h3 align="Center">A passionate web developer</h3>
 </div>
 
 <hr/>
