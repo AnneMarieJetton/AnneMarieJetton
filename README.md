@@ -113,11 +113,13 @@
 <hr/>
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annemariejetton&show_icons=true&locale=en&layout=compact" alt="annemariejetton" />
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=annemariejetton&show_icons=true&locale=en" alt="annemariejetton" />
-<br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=annemariejetton&" alt="annemariejetton" />
+<div align=center>
+  <img src="https://streak-stats.demolab.com/?user=AnneMarieJetton&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnneMarieJetton&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneMarieJetton&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+</div>
+
 
 
 
