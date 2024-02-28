@@ -16,7 +16,7 @@
 
 - 🌓 View my portfolio website [here](https://annemariejetton.github.io/personal-website/)
 
-- 🌔 How to reach me **annemariejetton@gmail.com**
+- 🌔 email me at **annemariejetton@gmail.com**
 
 - 🌕 View my resume [here](https://docs.google.com/document/d/1Zj3rg6WxoRnWKbS5rXz5nJG9O6NAr6JwbcMVSQVYRcI/edit?usp=sharing)
 
