@@ -87,6 +87,8 @@
 <hr/>
 <br/>
 
+<img align="right" alt="Coding" width="280" src="https://github.com/AnneMarieJetton/AnneMarieJetton/blob/main/rocket_ship_white.gif">
+
 <h3 align="left">Frameworks:</h3>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a>
