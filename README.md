@@ -8,15 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annemariejetton&label=Profile%20views&color=0e75b6&style=flat" alt="annemariejetton" /> </p>
 
-- 🔭 I’m currently working on [Bagit.com](https://github.com/AnneMarieJetton/BagIt)
+- 🔭🌑 I’m currently working on [Bagit.com](https://github.com/AnneMarieJetton/BagIt)
 
-- 🌱 I’m currently learning **Angular**
+- 🌒 I’m currently learning **Angular**
 
-- 👨‍💻 View my portfolio website at [https://github.com/jennacioffi/personal-website](https://github.com/jennacioffi/personal-website)
+- 🌓 View my portfolio website at [https://github.com/jennacioffi/personal-website](https://github.com/jennacioffi/personal-website)
 
-- 📫 How to reach me **annemariejetton@gmail.com**
+- 🌔 How to reach me **annemariejetton@gmail.com**
 
-- 📄 View my resume at [https://docs.google.com/document/d/1Zj3rg6WxoRnWKbS5rXz5nJG9O6NAr6JwbcMVSQVYRcI/edit?usp=sharing](https://docs.google.com/document/d/1Zj3rg6WxoRnWKbS5rXz5nJG9O6NAr6JwbcMVSQVYRcI/edit?usp=sharing)
+- 🌕 View my resume at [https://docs.google.com/document/d/1Zj3rg6WxoRnWKbS5rXz5nJG9O6NAr6JwbcMVSQVYRcI/edit?usp=sharing](https://docs.google.com/document/d/1Zj3rg6WxoRnWKbS5rXz5nJG9O6NAr6JwbcMVSQVYRcI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
