@@ -1,7 +1,7 @@
 <h1 align="Left">👋🏻👩🏻‍🚀Anne Jetton</h1>
 <h3 align="Left">Web Developer</h3>
 <p align="Left">
-  I'm a web developer with a passion for bringing ideas to life. All of my projects are built the same way; it starts with a design and careful planning, followed by consistant implementation and finally, debugging and documentation. I'm passionate about creating     quality and easily maintainable code, and delivering a product in a timely and organized mannor. Check out my favorite personal project, "Unfair Chess", an exciting new take on the classic game!
+  I'm a web developer with a passion for bringing ideas to life. All of my projects are built the same way; it starts with a design and careful planning, followed by consistant implementation and finally, debugging and documentation. I'm passionate about creating     quality and easily maintainable code, and delivering a product in a timely and organized mannor. Check out my favorite personal project, "Unfair Chess", an exciting new take on the classic game.
 </p>
 
 <br/>
